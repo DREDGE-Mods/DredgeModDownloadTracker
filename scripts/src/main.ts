@@ -1,16 +1,8 @@
 import core from "@actions/core";
-import { Octokit } from "@octokit/core";
 import {
   getOctokit,
-  getRestEndpointMethods,
-  getCleanedUpRelease,
-  getCleanedUpReleaseList,
-  getRepoUpdatedAt,
-  getAllReleases,
-  getRepository
 } from "./octokit";
 import fs from "fs";
-import { error } from "console";
 
 async function run() {
     const test = false;
