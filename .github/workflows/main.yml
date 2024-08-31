@@ -18,14 +18,14 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: 16
+          node-version: 18
       - name: Build
         run: |
           cd scripts
           npm install
           npm run build
       - name: Run local action
-        uses: ./actions/update-database
+        uses: ./actions/update-download-counts
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       - name: Commit changes
