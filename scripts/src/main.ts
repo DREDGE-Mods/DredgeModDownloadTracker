@@ -1,9 +1,36 @@
 const core = require("@actions/core");
-import {
-  getOctokit,
-} from "./octokit";
+import { Octokit } from "@octokit/core";
 const fs = require("fs");
 const fetch = require("node-fetch");
+
+export type CreatedOctokit = ReturnType<typeof createOctokit>;
+let createdOctokit: CreatedOctokit;
+
+// It's useful to log the API call count,
+// but replacing the fetch function seems to some times cause the "premature close" error.
+// So it's disabled by default.
+const LOG_API_CALL_COUNTS = false;
+
+export let apiCallCount = 0;
+
+export function getOctokit() {
+  if (!createdOctokit) {
+    createdOctokit = createOctokit();
+  }
+  return createdOctokit;
+}
+
+function createOctokit() {
+return new Octokit({
+    auth: process.env["GITHUB_TOKEN"],
+    request: {
+        fetch: LOG_API_CALL_COUNTS ? (...parameters: Parameters<typeof fetch>) => {
+        apiCallCount++;
+        return fetch(...parameters);
+        } : fetch
+    }
+});
+}
 
 async function run() {
     const test = false;
