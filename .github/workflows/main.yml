@@ -23,9 +23,7 @@ jobs:
         run: |
           cd scripts
           npm install
-          npm run build
-      - name: Run local action
-        uses: ./actions/update-download-counts
+          npm run test
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       - name: Commit changes
