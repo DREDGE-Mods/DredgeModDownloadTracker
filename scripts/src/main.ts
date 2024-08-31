@@ -1,8 +1,9 @@
-import core from "@actions/core";
+const core = require("@actions/core");
 import {
   getOctokit,
 } from "./octokit";
-import fs from "fs";
+const fs = require("fs");
+const fetch = require("node-fetch");
 
 async function run() {
     const test = false;
