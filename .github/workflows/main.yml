@@ -1,0 +1,34 @@
+name: Update Download Counts
+
+on:
+  schedule:
+    - cron: 0 0 * * *
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-download-counts:
+    name: Run
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: Build
+        run: |
+          cd scripts
+          npm install
+          npm run build
+      - name: Run local action
+        uses: ./actions/update-database
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Commit changes
+          uses: stefanzweifel/git-auto-commit-action@v4
+          with:
+            commit_message: Update download counts
+            commit_user_name: Dredge Mod Database

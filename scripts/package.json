@@ -4,7 +4,8 @@
   "description": "Tracks download counts from commit history",
   "main": "index.js",
   "scripts": {
-    "test": "npx tsx src/main.ts"
+    "test": "npx tsx src/main.ts",
+    "build": "tsc"
   },
   "author": "xen-42",
   "license": "MIT",
