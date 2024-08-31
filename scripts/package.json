@@ -7,6 +7,7 @@
     "test": "npx tsx src/main.ts",
     "build": "tsc"
   },
+  "module": "commonjs",
   "author": "xen-42",
   "license": "MIT",
   "dependencies": {

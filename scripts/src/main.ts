@@ -1,5 +1,5 @@
 const core = require("@actions/core");
-import { Octokit } from "@octokit/core";
+const {Octokit} = require("octokit")
 const fs = require("fs");
 const fetch = require("node-fetch");
 
