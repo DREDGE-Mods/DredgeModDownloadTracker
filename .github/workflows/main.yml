@@ -24,7 +24,6 @@ jobs:
           cd scripts
           npm install
           npm run build
-          for f in *.js; do mv -- "$f" "${f%.js}.cjs"; done
       - name: Run local action
         uses: ./actions/update-download-counts
         env:
