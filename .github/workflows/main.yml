@@ -10,7 +10,8 @@ permissions:
 
 jobs:
   update-download-counts:
-    name: Run
+    name: Update download counts
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -28,7 +29,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       - name: Commit changes
-          uses: stefanzweifel/git-auto-commit-action@v4
-          with:
-            commit_message: Update download counts
-            commit_user_name: Dredge Mod Database
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update download counts
+          commit_user_name: Dredge Mod Database
