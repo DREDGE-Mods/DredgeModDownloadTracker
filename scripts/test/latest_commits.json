@@ -1,5 +1,333 @@
 [
   {
+    "sha": "e7407382e901612f11ca9a27b14dcee12e4397f1",
+    "node_id": "C_kwDOJlxMQ9oAKGU3NDA3MzgyZTkwMTYxMmYxMWNhOWEyN2IxNGRjZWUxMmU0Mzk3ZjE",
+    "commit": {
+      "author": {
+        "name": "xen-42",
+        "email": "xen-42@users.noreply.github.com",
+        "date": "2026-05-30T02:42:19Z"
+      },
+      "committer": {
+        "name": "Dredge Mod Database",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2026-05-30T02:42:19Z"
+      },
+      "message": "Update mod database",
+      "tree": {
+        "sha": "c268df5e0ef9721e56f3f57de01559bdae7dad15",
+        "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/git/trees/c268df5e0ef9721e56f3f57de01559bdae7dad15"
+      },
+      "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/git/commits/e7407382e901612f11ca9a27b14dcee12e4397f1",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/e7407382e901612f11ca9a27b14dcee12e4397f1",
+    "html_url": "https://github.com/DREDGE-Mods/DredgeModDatabase/commit/e7407382e901612f11ca9a27b14dcee12e4397f1",
+    "comments_url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/e7407382e901612f11ca9a27b14dcee12e4397f1/comments",
+    "author": {
+      "login": "xen-42",
+      "id": 22628069,
+      "node_id": "MDQ6VXNlcjIyNjI4MDY5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22628069?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/xen-42",
+      "html_url": "https://github.com/xen-42",
+      "followers_url": "https://api.github.com/users/xen-42/followers",
+      "following_url": "https://api.github.com/users/xen-42/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xen-42/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xen-42/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xen-42/subscriptions",
+      "organizations_url": "https://api.github.com/users/xen-42/orgs",
+      "repos_url": "https://api.github.com/users/xen-42/repos",
+      "events_url": "https://api.github.com/users/xen-42/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xen-42/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d6d8c76a6a59c493836561a953b3cf6ca22ba58b",
+        "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/d6d8c76a6a59c493836561a953b3cf6ca22ba58b",
+        "html_url": "https://github.com/DREDGE-Mods/DredgeModDatabase/commit/d6d8c76a6a59c493836561a953b3cf6ca22ba58b"
+      }
+    ]
+  },
+  {
+    "sha": "d6d8c76a6a59c493836561a953b3cf6ca22ba58b",
+    "node_id": "C_kwDOJlxMQ9oAKGQ2ZDhjNzZhNmE1OWM0OTM4MzY1NjFhOTUzYjNjZjZjYTIyYmE1OGI",
+    "commit": {
+      "author": {
+        "name": "xen-42",
+        "email": "xen-42@users.noreply.github.com",
+        "date": "2026-05-29T20:13:48Z"
+      },
+      "committer": {
+        "name": "Dredge Mod Database",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2026-05-29T20:13:48Z"
+      },
+      "message": "Update mod database",
+      "tree": {
+        "sha": "6cdaf11b805e1ee2ab2feb212c4cfaf754997959",
+        "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/git/trees/6cdaf11b805e1ee2ab2feb212c4cfaf754997959"
+      },
+      "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/git/commits/d6d8c76a6a59c493836561a953b3cf6ca22ba58b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/d6d8c76a6a59c493836561a953b3cf6ca22ba58b",
+    "html_url": "https://github.com/DREDGE-Mods/DredgeModDatabase/commit/d6d8c76a6a59c493836561a953b3cf6ca22ba58b",
+    "comments_url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/d6d8c76a6a59c493836561a953b3cf6ca22ba58b/comments",
+    "author": {
+      "login": "xen-42",
+      "id": 22628069,
+      "node_id": "MDQ6VXNlcjIyNjI4MDY5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22628069?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/xen-42",
+      "html_url": "https://github.com/xen-42",
+      "followers_url": "https://api.github.com/users/xen-42/followers",
+      "following_url": "https://api.github.com/users/xen-42/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xen-42/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xen-42/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xen-42/subscriptions",
+      "organizations_url": "https://api.github.com/users/xen-42/orgs",
+      "repos_url": "https://api.github.com/users/xen-42/repos",
+      "events_url": "https://api.github.com/users/xen-42/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xen-42/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c42394a0195672ac790b9a66a8931bc77a5ea678",
+        "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/c42394a0195672ac790b9a66a8931bc77a5ea678",
+        "html_url": "https://github.com/DREDGE-Mods/DredgeModDatabase/commit/c42394a0195672ac790b9a66a8931bc77a5ea678"
+      }
+    ]
+  },
+  {
+    "sha": "c42394a0195672ac790b9a66a8931bc77a5ea678",
+    "node_id": "C_kwDOJlxMQ9oAKGM0MjM5NGEwMTk1NjcyYWM3OTBiOWE2NmE4OTMxYmM3N2E1ZWE2Nzg",
+    "commit": {
+      "author": {
+        "name": "xen-42",
+        "email": "xen-42@users.noreply.github.com",
+        "date": "2026-05-29T14:53:10Z"
+      },
+      "committer": {
+        "name": "Dredge Mod Database",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2026-05-29T14:53:10Z"
+      },
+      "message": "Update mod database",
+      "tree": {
+        "sha": "e5e9631e68299ba8a060515d0acf0073018afb99",
+        "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/git/trees/e5e9631e68299ba8a060515d0acf0073018afb99"
+      },
+      "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/git/commits/c42394a0195672ac790b9a66a8931bc77a5ea678",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/c42394a0195672ac790b9a66a8931bc77a5ea678",
+    "html_url": "https://github.com/DREDGE-Mods/DredgeModDatabase/commit/c42394a0195672ac790b9a66a8931bc77a5ea678",
+    "comments_url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/c42394a0195672ac790b9a66a8931bc77a5ea678/comments",
+    "author": {
+      "login": "xen-42",
+      "id": 22628069,
+      "node_id": "MDQ6VXNlcjIyNjI4MDY5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22628069?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/xen-42",
+      "html_url": "https://github.com/xen-42",
+      "followers_url": "https://api.github.com/users/xen-42/followers",
+      "following_url": "https://api.github.com/users/xen-42/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xen-42/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xen-42/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xen-42/subscriptions",
+      "organizations_url": "https://api.github.com/users/xen-42/orgs",
+      "repos_url": "https://api.github.com/users/xen-42/repos",
+      "events_url": "https://api.github.com/users/xen-42/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xen-42/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0fe334bf11002b431b0e6dd46d6807c759145d32",
+        "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/0fe334bf11002b431b0e6dd46d6807c759145d32",
+        "html_url": "https://github.com/DREDGE-Mods/DredgeModDatabase/commit/0fe334bf11002b431b0e6dd46d6807c759145d32"
+      }
+    ]
+  },
+  {
+    "sha": "0fe334bf11002b431b0e6dd46d6807c759145d32",
+    "node_id": "C_kwDOJlxMQ9oAKDBmZTMzNGJmMTEwMDJiNDMxYjBlNmRkNDZkNjgwN2M3NTkxNDVkMzI",
+    "commit": {
+      "author": {
+        "name": "xen-42",
+        "email": "xen-42@users.noreply.github.com",
+        "date": "2026-05-29T09:44:44Z"
+      },
+      "committer": {
+        "name": "Dredge Mod Database",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2026-05-29T09:44:44Z"
+      },
+      "message": "Update mod database",
+      "tree": {
+        "sha": "1d1691fee8b8621b562fc48eaad6cd07b94ec33b",
+        "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/git/trees/1d1691fee8b8621b562fc48eaad6cd07b94ec33b"
+      },
+      "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/git/commits/0fe334bf11002b431b0e6dd46d6807c759145d32",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/0fe334bf11002b431b0e6dd46d6807c759145d32",
+    "html_url": "https://github.com/DREDGE-Mods/DredgeModDatabase/commit/0fe334bf11002b431b0e6dd46d6807c759145d32",
+    "comments_url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/0fe334bf11002b431b0e6dd46d6807c759145d32/comments",
+    "author": {
+      "login": "xen-42",
+      "id": 22628069,
+      "node_id": "MDQ6VXNlcjIyNjI4MDY5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22628069?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/xen-42",
+      "html_url": "https://github.com/xen-42",
+      "followers_url": "https://api.github.com/users/xen-42/followers",
+      "following_url": "https://api.github.com/users/xen-42/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xen-42/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xen-42/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xen-42/subscriptions",
+      "organizations_url": "https://api.github.com/users/xen-42/orgs",
+      "repos_url": "https://api.github.com/users/xen-42/repos",
+      "events_url": "https://api.github.com/users/xen-42/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xen-42/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8ed166e6c0e3ee5fe04d56eb0bdcff79c6b2108c",
+        "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/8ed166e6c0e3ee5fe04d56eb0bdcff79c6b2108c",
+        "html_url": "https://github.com/DREDGE-Mods/DredgeModDatabase/commit/8ed166e6c0e3ee5fe04d56eb0bdcff79c6b2108c"
+      }
+    ]
+  },
+  {
     "sha": "8ed166e6c0e3ee5fe04d56eb0bdcff79c6b2108c",
     "node_id": "C_kwDOJlxMQ9oAKDhlZDE2NmU2YzBlM2VlNWZlMDRkNTZlYjBiZGNmZjc5YzZiMjEwOGM",
     "commit": {
@@ -488,334 +816,6 @@
         "sha": "e17fce62c257f6f9c474c8317cc9084e4f344045",
         "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/e17fce62c257f6f9c474c8317cc9084e4f344045",
         "html_url": "https://github.com/DREDGE-Mods/DredgeModDatabase/commit/e17fce62c257f6f9c474c8317cc9084e4f344045"
-      }
-    ]
-  },
-  {
-    "sha": "e17fce62c257f6f9c474c8317cc9084e4f344045",
-    "node_id": "C_kwDOJlxMQ9oAKGUxN2ZjZTYyYzI1N2Y2ZjljNDc0YzgzMTdjYzkwODRlNGYzNDQwNDU",
-    "commit": {
-      "author": {
-        "name": "xen-42",
-        "email": "xen-42@users.noreply.github.com",
-        "date": "2026-05-27T15:29:18Z"
-      },
-      "committer": {
-        "name": "Dredge Mod Database",
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "date": "2026-05-27T15:29:18Z"
-      },
-      "message": "Update mod database",
-      "tree": {
-        "sha": "3fe48886a5e5d9b841c562934db8a69582f004c7",
-        "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/git/trees/3fe48886a5e5d9b841c562934db8a69582f004c7"
-      },
-      "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/git/commits/e17fce62c257f6f9c474c8317cc9084e4f344045",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null,
-        "verified_at": null
-      }
-    },
-    "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/e17fce62c257f6f9c474c8317cc9084e4f344045",
-    "html_url": "https://github.com/DREDGE-Mods/DredgeModDatabase/commit/e17fce62c257f6f9c474c8317cc9084e4f344045",
-    "comments_url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/e17fce62c257f6f9c474c8317cc9084e4f344045/comments",
-    "author": {
-      "login": "xen-42",
-      "id": 22628069,
-      "node_id": "MDQ6VXNlcjIyNjI4MDY5",
-      "avatar_url": "https://avatars.githubusercontent.com/u/22628069?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/xen-42",
-      "html_url": "https://github.com/xen-42",
-      "followers_url": "https://api.github.com/users/xen-42/followers",
-      "following_url": "https://api.github.com/users/xen-42/following{/other_user}",
-      "gists_url": "https://api.github.com/users/xen-42/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/xen-42/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/xen-42/subscriptions",
-      "organizations_url": "https://api.github.com/users/xen-42/orgs",
-      "repos_url": "https://api.github.com/users/xen-42/repos",
-      "events_url": "https://api.github.com/users/xen-42/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/xen-42/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "7d8d3125b682c115c63be044c1af0df23c467443",
-        "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/7d8d3125b682c115c63be044c1af0df23c467443",
-        "html_url": "https://github.com/DREDGE-Mods/DredgeModDatabase/commit/7d8d3125b682c115c63be044c1af0df23c467443"
-      }
-    ]
-  },
-  {
-    "sha": "7d8d3125b682c115c63be044c1af0df23c467443",
-    "node_id": "C_kwDOJlxMQ9oAKDdkOGQzMTI1YjY4MmMxMTVjNjNiZTA0NGMxYWYwZGYyM2M0Njc0NDM",
-    "commit": {
-      "author": {
-        "name": "xen-42",
-        "email": "xen-42@users.noreply.github.com",
-        "date": "2026-05-27T09:37:19Z"
-      },
-      "committer": {
-        "name": "Dredge Mod Database",
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "date": "2026-05-27T09:37:19Z"
-      },
-      "message": "Update mod database",
-      "tree": {
-        "sha": "679fc5864feaf1c61f04a416d885a3d29c29cafd",
-        "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/git/trees/679fc5864feaf1c61f04a416d885a3d29c29cafd"
-      },
-      "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/git/commits/7d8d3125b682c115c63be044c1af0df23c467443",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null,
-        "verified_at": null
-      }
-    },
-    "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/7d8d3125b682c115c63be044c1af0df23c467443",
-    "html_url": "https://github.com/DREDGE-Mods/DredgeModDatabase/commit/7d8d3125b682c115c63be044c1af0df23c467443",
-    "comments_url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/7d8d3125b682c115c63be044c1af0df23c467443/comments",
-    "author": {
-      "login": "xen-42",
-      "id": 22628069,
-      "node_id": "MDQ6VXNlcjIyNjI4MDY5",
-      "avatar_url": "https://avatars.githubusercontent.com/u/22628069?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/xen-42",
-      "html_url": "https://github.com/xen-42",
-      "followers_url": "https://api.github.com/users/xen-42/followers",
-      "following_url": "https://api.github.com/users/xen-42/following{/other_user}",
-      "gists_url": "https://api.github.com/users/xen-42/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/xen-42/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/xen-42/subscriptions",
-      "organizations_url": "https://api.github.com/users/xen-42/orgs",
-      "repos_url": "https://api.github.com/users/xen-42/repos",
-      "events_url": "https://api.github.com/users/xen-42/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/xen-42/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "b92af96f1801c9d84252f17c392740faf0ee4d60",
-        "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/b92af96f1801c9d84252f17c392740faf0ee4d60",
-        "html_url": "https://github.com/DREDGE-Mods/DredgeModDatabase/commit/b92af96f1801c9d84252f17c392740faf0ee4d60"
-      }
-    ]
-  },
-  {
-    "sha": "b92af96f1801c9d84252f17c392740faf0ee4d60",
-    "node_id": "C_kwDOJlxMQ9oAKGI5MmFmOTZmMTgwMWM5ZDg0MjUyZjE3YzM5Mjc0MGZhZjBlZTRkNjA",
-    "commit": {
-      "author": {
-        "name": "xen-42",
-        "email": "xen-42@users.noreply.github.com",
-        "date": "2026-05-27T02:57:41Z"
-      },
-      "committer": {
-        "name": "Dredge Mod Database",
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "date": "2026-05-27T02:57:41Z"
-      },
-      "message": "Update mod database",
-      "tree": {
-        "sha": "7d15f7f6765114b37865c4be8f9c9dd1045fa193",
-        "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/git/trees/7d15f7f6765114b37865c4be8f9c9dd1045fa193"
-      },
-      "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/git/commits/b92af96f1801c9d84252f17c392740faf0ee4d60",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null,
-        "verified_at": null
-      }
-    },
-    "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/b92af96f1801c9d84252f17c392740faf0ee4d60",
-    "html_url": "https://github.com/DREDGE-Mods/DredgeModDatabase/commit/b92af96f1801c9d84252f17c392740faf0ee4d60",
-    "comments_url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/b92af96f1801c9d84252f17c392740faf0ee4d60/comments",
-    "author": {
-      "login": "xen-42",
-      "id": 22628069,
-      "node_id": "MDQ6VXNlcjIyNjI4MDY5",
-      "avatar_url": "https://avatars.githubusercontent.com/u/22628069?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/xen-42",
-      "html_url": "https://github.com/xen-42",
-      "followers_url": "https://api.github.com/users/xen-42/followers",
-      "following_url": "https://api.github.com/users/xen-42/following{/other_user}",
-      "gists_url": "https://api.github.com/users/xen-42/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/xen-42/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/xen-42/subscriptions",
-      "organizations_url": "https://api.github.com/users/xen-42/orgs",
-      "repos_url": "https://api.github.com/users/xen-42/repos",
-      "events_url": "https://api.github.com/users/xen-42/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/xen-42/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "9292ff8793b003d41da937686a0c49a52be0b882",
-        "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/9292ff8793b003d41da937686a0c49a52be0b882",
-        "html_url": "https://github.com/DREDGE-Mods/DredgeModDatabase/commit/9292ff8793b003d41da937686a0c49a52be0b882"
-      }
-    ]
-  },
-  {
-    "sha": "9292ff8793b003d41da937686a0c49a52be0b882",
-    "node_id": "C_kwDOJlxMQ9oAKDkyOTJmZjg3OTNiMDAzZDQxZGE5Mzc2ODZhMGM0OWE1MmJlMGI4ODI",
-    "commit": {
-      "author": {
-        "name": "xen-42",
-        "email": "xen-42@users.noreply.github.com",
-        "date": "2026-05-26T20:04:11Z"
-      },
-      "committer": {
-        "name": "Dredge Mod Database",
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "date": "2026-05-26T20:04:11Z"
-      },
-      "message": "Update mod database",
-      "tree": {
-        "sha": "46ab8e26e99b72d461e2871672309857a23bbb2a",
-        "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/git/trees/46ab8e26e99b72d461e2871672309857a23bbb2a"
-      },
-      "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/git/commits/9292ff8793b003d41da937686a0c49a52be0b882",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null,
-        "verified_at": null
-      }
-    },
-    "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/9292ff8793b003d41da937686a0c49a52be0b882",
-    "html_url": "https://github.com/DREDGE-Mods/DredgeModDatabase/commit/9292ff8793b003d41da937686a0c49a52be0b882",
-    "comments_url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/9292ff8793b003d41da937686a0c49a52be0b882/comments",
-    "author": {
-      "login": "xen-42",
-      "id": 22628069,
-      "node_id": "MDQ6VXNlcjIyNjI4MDY5",
-      "avatar_url": "https://avatars.githubusercontent.com/u/22628069?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/xen-42",
-      "html_url": "https://github.com/xen-42",
-      "followers_url": "https://api.github.com/users/xen-42/followers",
-      "following_url": "https://api.github.com/users/xen-42/following{/other_user}",
-      "gists_url": "https://api.github.com/users/xen-42/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/xen-42/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/xen-42/subscriptions",
-      "organizations_url": "https://api.github.com/users/xen-42/orgs",
-      "repos_url": "https://api.github.com/users/xen-42/repos",
-      "events_url": "https://api.github.com/users/xen-42/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/xen-42/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "99ea0c97b8aed2398f07e1f8d86d806fe3c1f222",
-        "url": "https://api.github.com/repos/DREDGE-Mods/DredgeModDatabase/commits/99ea0c97b8aed2398f07e1f8d86d806fe3c1f222",
-        "html_url": "https://github.com/DREDGE-Mods/DredgeModDatabase/commit/99ea0c97b8aed2398f07e1f8d86d806fe3c1f222"
       }
     ]
   }
